@@ -1,0 +1,14 @@
+discord.py==1.7.3
+pyfiglet==0.8.post1
+faker==9.3.1
+python-decouple
+requests
+colorama
+discord.py-self
+pyfiglet
+websocket
+asyncio
+pystyle
+winotify
+Fernet
+psutil
